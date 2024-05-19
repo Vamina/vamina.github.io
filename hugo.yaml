@@ -1,7 +1,17 @@
 baseURL: https://vamina.github.io
 languageCode: en-us
-title: Daria D'Alessandro
+title: Daria D'Alessandro, PhD
 theme: ["PaperMod"]
+
+languages:
+  en:
+    params:
+      languageName: English
+      title: Daria D'Alessandro, PhD
+      subtitle: Phonetician
+      keywords: ["daria", "d'alessandro", "dalessandro", "phonetics", "phonetician", "phd", "motor", "control"]
+      copyright: ""
+
 
 params:
 
