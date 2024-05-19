@@ -26,7 +26,7 @@ params:
         url: publications
 
   socialIcons: # optional
-    - name: "scholar"
+    - name: "googlescholar"
       url: "https://scholar.google.com/citations?user=m-Jqp5EAAAAJ"
     - name: "researchgate"
       url: "https://www.researchgate.net/profile/Daria-D-Alessandro"
