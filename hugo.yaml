@@ -31,7 +31,8 @@ params:
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/daria-d-alessandro-82372927b/"
-    # - name: "googlescholar"
+    - name: "researchgate"
+      url: "https://www.researchgate.net/profile/Daria-D-Alessandro"
 
 
 menu:
