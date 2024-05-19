@@ -22,8 +22,8 @@ params:
     buttons:
       - name: About
         url: about
-      - name: Publications
-        url: publications
+      # - name: Publications
+      #   url: publications
 
   socialIcons: # optional
     - name: "googlescholar"
@@ -35,9 +35,9 @@ params:
 
 menu:
   main:
-    - name: Publications
-      url: publications
-      weight: 2
+    # - name: Publications
+    #   url: publications
+    #   weight: 2
     - name: About
       url: about
       weight: 1
