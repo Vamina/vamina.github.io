@@ -9,12 +9,9 @@ languages:
       languageName: English
       title: Daria D'Alessandro, PhD
       subtitle: Phonetician
-      keywords: ["daria", "d'alessandro", "dalessandro", "phonetics", "phonetician", "phd", "motor", "control"]
-      copyright: ""
-
+      keywords: ["daria", "d'alessandro", "dalessandro", "phonetics", "phonetician", "phd", "motor", "control", "coarticulation"]
 
 params:
-
   profileMode:
     enabled: true # needs to be explicitly set
     subtitle: "[*Postdoctoral Researcher*](https://faculty.washington.edu/ludomax/lab/people.shtml) at [**University of Washington**](https://www.washington.edu/)"
@@ -29,11 +26,12 @@ params:
         url: publications
 
   socialIcons: # optional
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/daria-d-alessandro-82372927b/"
+    - name: "scholar"
+      url: "https://scholar.google.com/citations?user=m-Jqp5EAAAAJ"
     - name: "researchgate"
       url: "https://www.researchgate.net/profile/Daria-D-Alessandro"
-
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/daria-d-alessandro-82372927b/"
 
 menu:
   main:
