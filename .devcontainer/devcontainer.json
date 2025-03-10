@@ -8,7 +8,7 @@
 		"ghcr.io/devcontainers/features/hugo:1": {
 			"version": "latest"
 		},
-		"ghcr.io/meaningful-ooo/devcontainer-features/fish:1": {
+		"ghcr.io/meaningful-ooo/devcontainer-features/fish:2": {
 			"fisher": true
 		}
 	}
